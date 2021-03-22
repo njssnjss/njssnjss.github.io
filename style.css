@@ -165,7 +165,7 @@ h3 {
     animation: typewriter;
     display: inline-block;
     position: relative;
-    animation-duration: 10s;
+    animation-duration: 15s;
     animation-delay: 2s;
     animation-timing-function: steps(29, end);
     animation-iteration-count: infinite;
