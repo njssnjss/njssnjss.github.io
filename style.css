@@ -51,7 +51,7 @@ h3 {
     margin: 0;
     display: flex;
     justify-content: space-around;
-    background: #ffbb33;
+    background: #318aff;
     width: 100vw;
     height: 50px;
     position: fixed;
@@ -151,7 +151,7 @@ h3 {
 
 .home-subheading {
     font-family: "Orbitron";
-    color: #a7ff33;
+    color: #318aff;
     font-weight: 400;
     display: flex;
     justify-content: center;
@@ -196,7 +196,7 @@ h3 {
         color: transparent
     }
     50% {
-        color: #ffbb33;
+        color: #318aff;
     }
 }
 
@@ -247,7 +247,7 @@ h3 {
 
 .about-highlights1 {
     font-family: "Raleway";
-    color: #ffbb33;
+    color: #318aff;
     opacity: 0;
     transition: all 2s;
     transition-delay: 1s;
@@ -255,7 +255,7 @@ h3 {
 
 .about-highlights2 {
     font-family: "Raleway";
-    color: #ffbb33;
+    color: #318aff;
     opacity: 0;
     transition: all 2s;
     transition-delay: 2s;
@@ -428,7 +428,7 @@ h3 {
 /* Footer */
 
 .footer {
-    background: #a7ff33;
+    background: #318aff;
     padding: 5px 0;
     display: flex;
     justify-content: center;
