@@ -112,8 +112,8 @@ h3 {
 /* Main Section */
 
 .google_chabot {
-    justify-content: left;
-    position: relative;
+    position: absolute;
+    left: 150px;
 }
 
 .home {
