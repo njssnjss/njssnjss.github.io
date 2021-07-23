@@ -111,18 +111,6 @@ h3 {
 
 /* Main Section */
 
-.google_chabot {
-    position: fixed;
-    bottom: 0%;
-    right: 5%;
-    width: 350px;
-    display: block;
-    box-shadow: 0 0 3px rgb(0 0 0 / 30%);
-    z-index: 999;
-    background-color: #fff;
-    text-align: left;
-}
-
 .home {
     display: flex;
     flex-direction: column;
@@ -481,4 +469,12 @@ df-messenger {
     --df-messenger-chat-background-color: #fafafa;
     --df-messenger-font-color: white;
     --df-messenger-send-icon: #878fac;
+}
+
+.df-messenger-wrapper {
+    right: 1000px;
+}
+
+.google_chabot {
+    left: 5px;
 }
