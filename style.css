@@ -111,6 +111,10 @@ h3 {
 
 /* Main Section */
 
+.google_chabot {
+    justify-content: left;
+}
+
 .home {
     display: flex;
     flex-direction: column;
@@ -464,9 +468,9 @@ h3 {
 }
 
 df-messenger {
-   --df-messenger-bot-message: #2D15A2;
-   --df-messenger-button-titlebar-color: #53DE1F;
-   --df-messenger-chat-background-color: #fafafa;
-   --df-messenger-font-color: white;
-   --df-messenger-send-icon: #878fac;
-  }
+    --df-messenger-bot-message: #2D15A2;
+    --df-messenger-button-titlebar-color: #53DE1F;
+    --df-messenger-chat-background-color: #fafafa;
+    --df-messenger-font-color: white;
+    --df-messenger-send-icon: #878fac;
+}
