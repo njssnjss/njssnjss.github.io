@@ -112,7 +112,15 @@ h3 {
 /* Main Section */
 
 .google_chabot {
-    left: 150px;
+    position: fixed;
+    bottom: 0%;
+    right: 5%;
+    width: 350px;
+    display: block;
+    box-shadow: 0 0 3px rgb(0 0 0 / 30%);
+    z-index: 999;
+    background-color: #fff;
+    text-align: left;
 }
 
 .home {
